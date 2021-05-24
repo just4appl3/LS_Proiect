@@ -1,0 +1,212 @@
+[
+	{
+		"Nume": "Brazilia",
+		"Latitudine": "-9.244161611307064",
+		"Longitudine": "-54.46430630980374",
+		"Culoare": "blue",
+		"Dimensiune": "1"
+	},
+		{
+		"Nume": "Statele Unite ale Americii",
+		"Latitudine": "39.80159664185926",
+		"Longitudine": "-101.58056983040065",
+		"Culoare": "blue",
+		"Dimensiune": "1"
+	},
+		{
+		"Nume": "Canada",
+		"Latitudine": "57.81973442946214",
+		"Longitudine": "-101.68014242665167",
+		"Culoare": "blue",
+		"Dimensiune": "1"
+	},
+		{
+		"Nume": "Alaska",
+		"Latitudine": "64.90361935765401",
+		"Longitudine": "-151.16256539704256",
+		"Culoare": "blue",
+		"Dimensiune": "1"
+	},
+	{
+		"Nume": "Mexic",
+		"Latitudine": "23.52091035378363",
+		"Longitudine": "-102.3832678119868",
+		"Culoare": "blue",
+		"Dimensiune": "1"
+	},
+	{
+		"Nume": "Republica Democrată Congo",
+		"Latitudine": "-2.463715549136933",
+		"Longitudine": "24.524774480036527",
+		"Culoare": "yellow",
+		"Dimensiune": "2"
+	},
+	{
+		"Nume": "Algeria",
+		"Latitudine": "28.293323671711654",
+		"Longitudine": "1.425819304254085",
+		"Culoare": "yellow",
+		"Dimensiune": "2"
+	},
+	{
+		"Nume": "Nigeria",
+		"Latitudine": "9.71745845360224",
+		"Longitudine": "7.383468376740969",
+		"Culoare": "yellow",
+		"Dimensiune": "2"
+	},
+	{
+		"Nume": "Somalia",
+		"Latitudine": "3.2823365277096683",
+		"Longitudine": "43.965524084993696",
+		"Culoare": "yellow",
+		"Dimensiune": "2"
+	},
+	{
+		"Nume": "Krasnoiarsk",
+		"Latitudine": "56.26475269503974",
+		"Longitudine": "92.992546632003",
+		"Culoare": "red",
+		"Dimensiune": "3"
+	},
+	{
+		"Nume": "Novosibirsk",
+		"Latitudine": "55.076231232247345",
+		"Longitudine": "82.88148336956955",
+		"Culoare": "red",
+		"Dimensiune": "3"
+	},
+	{
+		"Nume": "Nijnevartovsk",
+		"Latitudine": "60.99929624544876",
+		"Longitudine": "76.47143144100622",
+		"Culoare": "red",
+		"Dimensiune": "3"
+	},
+	{
+		"Nume": "Uchami",
+		"Latitudine": "63.8188793944572",
+		"Longitudine": "96.44309680981286",
+		"Culoare": "red",
+		"Dimensiune": "3"
+	},
+	{
+		"Nume": "Tokyo",
+		"Latitudine": "36.01516870357335",
+		"Longitudine": "139.76562701241912",
+		"Culoare": "orange",
+		"Dimensiune": "4"
+	},
+	{
+		"Nume": "Hiroshima",
+		"Latitudine": "34.68318267427959,",
+		"Longitudine": "132.2793706121231",
+		"Culoare": "orange",
+		"Dimensiune": "4"
+	},
+	{
+		"Nume": "Sendai",
+		"Latitudine": "38.581797139397146",
+		"Longitudine": "140.75856852450028",
+		"Culoare": "orange",
+		"Dimensiune": "4"
+	},
+	{
+		"Nume": "Osaka",
+		"Latitudine": "34.60794395880065",
+		"Longitudine": "135.3757803274288",
+		"Culoare": "orange",
+		"Dimensiune": "4"
+	},
+	{
+		"Nume": "Qatar",
+		"Latitudine": "25.318244729791964",
+		"Longitudine": "51.17359978468324",
+		"Culoare": "pink",
+		"Dimensiune": "5"
+	},
+	{
+		"Nume": "Abu Dhabi",
+		"Latitudine": "24.615285078512965",
+		"Longitudine": "54.41046017871219",
+		"Culoare": "pink",
+		"Dimensiune": "5"
+	},
+	{
+		"Nume": "Iordania",
+		"Latitudine": "31.37381153798804",
+		"Longitudine": "37.08344062474123",
+		"Culoare": "pink",
+		"Dimensiune": "5"
+	},
+	{
+		"Nume": "Yemen",
+		"Latitudine": "15.817462208924962",
+		"Longitudine": "47.37297039575446",
+		"Culoare": "pink",
+		"Dimensiune": "5"
+	},
+	{
+		"Nume": "București",
+		"Latitudine": "44.45075745806483",
+		"Longitudine": "26.08012708092808",
+		"Culoare": "green",
+		"Dimensiune": "6"
+	},
+	{
+		"Nume": "Brașov",
+		"Latitudine": "45.67678504016773",
+		"Longitudine": "25.573803541552174",
+		"Culoare": "green",
+		"Dimensiune": "6"
+	},
+	{
+		"Nume": "Timișoara",
+		"Latitudine": "45.79759937085901",
+		"Longitudine": "21.26756822714923",
+		"Culoare": "green",
+		"Dimensiune": "6"
+	},
+	{
+		"Nume": "Cluj-Napoca",
+		"Latitudine": "46.82186917985436,",
+		"Longitudine": "23.612739298446144",
+		"Culoare": "green",
+		"Dimensiune": "6"
+	},
+	{
+		"Nume": "Iași",
+		"Latitudine": "47.21378996390283",
+		"Longitudine": "27.58450534677073",
+		"Culoare": "green",
+		"Dimensiune": "6"
+	},
+	{
+		"Nume": "Brăila",
+		"Latitudine": "45.3226501418262",
+		"Longitudine": "27.92900475277915",
+		"Culoare": "green",
+		"Dimensiune": "6"
+	},
+	{
+		"Nume": "Londra",
+		"Latitudine": "51.61965206998723",
+		"Longitudine": "-0.18249132911762336",
+		"Culoare": "purple",
+		"Dimensiune": "7"
+	},
+	{
+		"Nume": "Manchester",
+		"Latitudine": "53.541872691752275",
+		"Longitudine": "-2.280880052677318",
+		"Culoare": "purple",
+		"Dimensiune": "7"
+	},
+	{
+		"Nume": "Edinburgh",
+		"Latitudine": "56.04897070415389",
+		"Longitudine": "-3.181758978951751",
+		"Culoare": "purple",
+		"Dimensiune": "7"
+	}
+]
